@@ -4,8 +4,8 @@ Mis soluciones a los problemas planteados en la plataforma [Dcoder](https://code
 
 ## Tabla de Contenido
 
-- [Lista de Soluciones](#lista-de-soluciones-(7/204))
-    - [Easy](#easy-(7/87))
+- [Lista de Soluciones](#lista-de-soluciones-7204)
+    - [Easy](#easy-787)
 - [Autor](#autor)
 
 ## Lista de Soluciones (7/204)
