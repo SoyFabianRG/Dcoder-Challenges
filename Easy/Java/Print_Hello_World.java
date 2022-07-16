@@ -1,4 +1,4 @@
-public class Print-Hello-World
+public class Print_Hello_World
 {
     public static void main (String args [])
 	{
