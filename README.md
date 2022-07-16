@@ -22,7 +22,7 @@ Mis soluciones a los problemas planteados en la plataforma [Dcoder](https://code
     - [Printing Number Using Loop](./Easy/C/Printing-Number-Using-Loop.c)
     - [Project Teams](./Easy/C/Project-Teams.c)
 - Java
-    - [Print Hello World](./Easy/Java/Print-Hello-World.java)
+    - [Print Hello World](./Easy/Java/Print_Hello_World.java)
 - Python
     - [Print Hello World](./Easy/Python/Print-Hello-World.py)
 
