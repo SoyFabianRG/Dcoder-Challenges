@@ -5,7 +5,7 @@ Mis soluciones a los problemas planteados en la plataforma [Dcoder](https://code
 ## Tabla de Contenido
 
 - [Lista de Soluciones](#lista-de-soluciones-7204)
-    - [Easy](#easy-787)
+	- [Easy](#easy-787)
 - [Licencia](#licencia)
 - [Autor](#autor)
 
@@ -14,17 +14,20 @@ Mis soluciones a los problemas planteados en la plataforma [Dcoder](https://code
 ### Easy (7/87)
 
 - C
-    - [Binary to Decimal](./Easy/C/Binary-to-Decimal.c)
-    - [Degree Celsius](./Easy/C/Degree-Celsius.c)
-    - [Learning User Input with Natural Numbers](./Easy/C/Learning-User-Input-with-Natural-Numbers.c)
-    - [Numbered Triangle](./Easy/C/Numbered-Triangle.c)
-    - [Print Hello World](./Easy/C/Print-Hello-World.c)
-    - [Printing Number Using Loop](./Easy/C/Printing-Number-Using-Loop.c)
-    - [Project Teams](./Easy/C/Project-Teams.c)
+	- [Binary to Decimal](./Easy/C/Binary-to-Decimal.c)
+	- [Degree Celsius](./Easy/C/Degree-Celsius.c)
+	- [How Many Weeks](./Easy/C/How-Many-Weeks.c)
+	- [Learning Factorials with Loop/Recursion](./Easy/C/Learning-Factorials-with-Loop-Recursion.c)
+	- [Learning Sorting Numbers with If Else](./Easy/C/Learning-Sorting-Numbers-with-If-Else.c)
+	- [Learning User Input with Natural Numbers](./Easy/C/Learning-User-Input-with-Natural-Numbers.c)
+	- [Numbered Triangle](./Easy/C/Numbered-Triangle.c)
+	- [Print Hello World](./Easy/C/Print-Hello-World.c)
+	- [Printing Number Using Loop](./Easy/C/Printing-Number-Using-Loop.c)
+	- [Project Teams](./Easy/C/Project-Teams.c)
 - Java
-    - [Print Hello World](./Easy/Java/Print_Hello_World.java)
+	- [Print Hello World](./Easy/Java/Print_Hello_World.java)
 - Python
-    - [Print Hello World](./Easy/Python/Print-Hello-World.py)
+	- [Print Hello World](./Easy/Python/Print-Hello-World.py)
 
 ## Licencia
 
