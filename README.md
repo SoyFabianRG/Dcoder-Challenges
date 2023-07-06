@@ -9,7 +9,7 @@ Mis soluciones a los problemas planteados en la plataforma [Dcoder](https://code
 - [Licencia](#licencia)
 - [Autor](#autor)
 
-## Lista de Soluciones (7/204)
+## Lista de Soluciones (10/204)
 
 ### Easy (7/87)
 
@@ -30,8 +30,7 @@ Mis soluciones a los problemas planteados en la plataforma [Dcoder](https://code
 	- [Print Hello World](./Easy/Python/Print-Hello-World.py)
 
 ## Licencia
-
-> This project is licensed under the MIT License
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 ## Autor
 Hecho por [Fabián Ríos](https://www.linkedin.com/in/soyfabianrg/)
